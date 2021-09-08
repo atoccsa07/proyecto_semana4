@@ -3,7 +3,7 @@
 namespace App\Http\Controllers;
 
 use Illuminate\Http\Request;
-use App\Venta;
+use App\Models\Venta;
 class VentaController extends Controller
 {
     /**

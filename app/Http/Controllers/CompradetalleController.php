@@ -3,7 +3,7 @@
 namespace App\Http\Controllers;
 
 use Illuminate\Http\Request;
-use App\Compradetalle;
+use App\Models\Compradetalle;
 class CompradetalleController extends Controller
 {
     /**

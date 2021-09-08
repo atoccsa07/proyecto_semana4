@@ -25,3 +25,4 @@ Route::get('proveedores', 'ProveedoresController@index');
 Route::get('usuario', 'UsuarioController@index');
 Route::get('venta', 'VentaController@index');
 Route::get('ventadetalle', 'VentadetalleController@index');
+

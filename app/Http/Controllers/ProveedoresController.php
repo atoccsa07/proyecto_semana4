@@ -3,7 +3,7 @@
 namespace App\Http\Controllers;
 
 use Illuminate\Http\Request;
-use App\Proveedores;
+use App\Models\Proveedores;
 class ProveedoresController extends Controller
 {
     /**
